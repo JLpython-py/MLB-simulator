@@ -1,0 +1,14 @@
+__pycache__/
+geckodriver.log
+fgexporter.py
+SP.csv
+RP.csv
+C.csv
+1B.csv
+2B.csv
+3B.csv
+SS.csv
+LF.csv
+CF.csv
+RF.csv
+DH.csv
